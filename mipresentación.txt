@@ -1,0 +1,13 @@
+Este espacio es para que podamos aprender comandos basicos:
+
+primer comando se encarga de poder configurar los elementos de la computadora
+con el repositorio
+
+git config --global user.name "tunombredeusuario"
+git config --global user.email "tuemail"
+
+Esos dos elementos se obtienen de la cuenta de GitHub
+
+Nota: Estos comandos solo se registran una sola vez en una computadora personal
+
+
