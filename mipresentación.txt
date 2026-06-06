@@ -42,3 +42,5 @@ sirve para tomar "una fografia de todo lo que hemos hecho"
 este comando sirve para subir los cambios a la rama
 git push origin rama
 
+Esto no se va a ver aun
+
